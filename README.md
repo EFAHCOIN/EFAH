@@ -1,2 +1,0 @@
-# EFAH
-ico smart contract
